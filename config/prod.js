@@ -15,6 +15,9 @@
 // }
 
 
+
+// test thử sang dev có được không 
+// hóa ra đ được thật > Cay :))
 module.exports = {
 	googleClientID 		: '552942370964-cv9k9jpohpf5idpemooloit6bt9i6g6u.apps.googleusercontent.com',
 	googleClientSecret 	: '9JlgEoM0EF_0mJHtcd1SRQZG',
